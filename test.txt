@@ -3,3 +3,4 @@ It's new line!
 Add new line! 12312
 Commit -1
 Commit - 1 new
+Commit - 4
